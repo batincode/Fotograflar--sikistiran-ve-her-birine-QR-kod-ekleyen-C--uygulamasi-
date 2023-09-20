@@ -1,0 +1,16 @@
+C:\Users\batin\Desktop\ÇALIŞMALAR\KullaniciArayuzu\bin\Debug\KullaniciArayuzu.exe.config
+C:\Users\batin\Desktop\ÇALIŞMALAR\KullaniciArayuzu\bin\Debug\KullaniciArayuzu.exe
+C:\Users\batin\Desktop\ÇALIŞMALAR\KullaniciArayuzu\bin\Debug\KullaniciArayuzu.pdb
+C:\Users\batin\Desktop\ÇALIŞMALAR\KullaniciArayuzu\obj\Debug\KullaniciArayuzu.csproj.AssemblyReference.cache
+C:\Users\batin\Desktop\ÇALIŞMALAR\KullaniciArayuzu\obj\Debug\KullaniciArayuzu.csproj.SuggestedBindingRedirects.cache
+C:\Users\batin\Desktop\ÇALIŞMALAR\KullaniciArayuzu\obj\Debug\KullaniciArayuzu.Form1.resources
+C:\Users\batin\Desktop\ÇALIŞMALAR\KullaniciArayuzu\obj\Debug\KullaniciArayuzu.Properties.Resources.resources
+C:\Users\batin\Desktop\ÇALIŞMALAR\KullaniciArayuzu\obj\Debug\KullaniciArayuzu.csproj.GenerateResource.cache
+C:\Users\batin\Desktop\ÇALIŞMALAR\KullaniciArayuzu\obj\Debug\KullaniciArayuzu.csproj.CoreCompileInputs.cache
+C:\Users\batin\Desktop\ÇALIŞMALAR\KullaniciArayuzu\obj\Debug\KullaniciArayuzu.exe
+C:\Users\batin\Desktop\ÇALIŞMALAR\KullaniciArayuzu\obj\Debug\KullaniciArayuzu.pdb
+C:\Users\batin\Desktop\ÇALIŞMALAR\KullaniciArayuzu\bin\Debug\zxing.dll
+C:\Users\batin\Desktop\ÇALIŞMALAR\KullaniciArayuzu\bin\Debug\zxing.presentation.dll
+C:\Users\batin\Desktop\ÇALIŞMALAR\KullaniciArayuzu\bin\Debug\zxing.xml
+C:\Users\batin\Desktop\ÇALIŞMALAR\KullaniciArayuzu\bin\Debug\zxing.presentation.xml
+C:\Users\batin\Desktop\ÇALIŞMALAR\KullaniciArayuzu\obj\Debug\KullaniciArayuzu.csproj.CopyComplete
